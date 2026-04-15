@@ -23,7 +23,6 @@ public class ModeloArrayList implements ModeloAbs
     }
  
     public boolean borrarProducto ( int codigo ){
-    
       return lista.removeIf(p -> p.codigo==codigo) ;
     }
     
@@ -48,7 +47,9 @@ public class ModeloArrayList implements ModeloAbs
     // Solo chequea si el producto ya existia en el almacen.
     // No tiene que hacer nada pues se ha cambiado la referencia
     public boolean modificarProducto (Producto nuevo){
-       return true;
+    	Producto p;
+    	int i = lista.indexOf(nuevo);
+       return (i != -1);
     }
 
     // Devuelvo una lista con los productos con stock mínimo
