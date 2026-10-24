@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class ModeloHaspMap here.
+ * Implementa el modelo de datos almacenando los productos en un HashMap indexado por código.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Carlos Alberto García Espinoza 
+ * @version 1.0 (2026)
  */
 package gestionalmacen01.modelo;
 import java.util.ArrayList;

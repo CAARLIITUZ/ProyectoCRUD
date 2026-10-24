@@ -1,7 +1,7 @@
 /** Implementa la parte de Modelo de Datos
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Carlos Alberto García Espinoza 
+ * @version 1.0 (2026)
  */
 package gestionalmacen01.modelo;
 import java.util.ArrayList;

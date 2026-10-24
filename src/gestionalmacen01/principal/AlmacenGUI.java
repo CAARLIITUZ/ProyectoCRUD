@@ -1,9 +1,11 @@
 /**
  *  MiAlmacen
  *  Programa principal de gestión de un almacén de productos
- *  implementa un CRUD ( Creat, Read, Update, Delete) ofreciendo varios
+ *  implementa un CRUD (Create, Read, Update, Delete) ofreciendo varios
  *  informes.
  *  Versión gráfica sencilla.
+ *
+ *  @author Carlos Alberto García Espinoza
  */
 package gestionalmacen01.principal;
 

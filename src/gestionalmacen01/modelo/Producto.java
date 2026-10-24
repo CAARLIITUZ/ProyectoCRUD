@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class Producto here.
+ * Representa un producto del almacén: código, nombre, stock, stock mínimo y precio.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Carlos Alberto García Espinoza 
+ * @version 1.0 (2026)
  */
 package gestionalmacen01.modelo;
 public class Producto
